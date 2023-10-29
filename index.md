@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm 
 
 ## Projects
 
-### Project Title: Analyzing Car Break-Ins in San Francisco
+# Project Title: Analyzing Car Break-Ins in San Francisco
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cmeddata/SFO-Car-BreakIn/blob/main/SFO_BreakIn.ipynb)
 
 ## Project Description:
