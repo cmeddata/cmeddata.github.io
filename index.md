@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm 
 ### Project Title: Analyzing Car Break-Ins in San Francisco
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cmeddata/SFO-Car-BreakIn/blob/main/SFO_BreakIn.ipynb)
 
-Project Description:
+## Project Description:
 In response to the rising number of car break-ins in San Francisco, I conducted a data exploration project using reported crime data from DataSF. The original dataset contained over 700,000 reported crimes, which required data cleaning to focus on the specific information relevant to my project. I used the Python Pandas library to filter the data, extracting only incidents categorized as "Larceny Theft" with the subcategory "Larceny -
   
 ```break
