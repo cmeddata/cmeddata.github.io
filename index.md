@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cmeddata/SFO-Car-BreakIn/blob/main/SFO_BreakIn.ipynb)
 
 ## Project Description:
-In response to the rising number of car break-ins in San Francisco, I conducted a data exploration project using reported crime data from DataSF. The original dataset contained over 700,000 reported crimes, which required data cleaning to focus on the specific information relevant to my project. I used the Python Pandas library to filter the data, extracting only incidents categorized as "Larceny Theft" with the subcategory "Larceny -
+In response to the rising number of car break-ins in San Francisco, I conducted a data exploration project using reported crime data from DataSF. The original dataset contained over 700,000 reported crimes, which required data cleaning to focus on the specific information relevant to my project. I used the Python Pandas library to filter the data, extracting only incidents categorized as "Larceny Theft" with the subcategory "Larceny - Theft from vehicle"
   
 ```break
 #reads csv file
@@ -48,6 +48,18 @@ def Analysis_by_Neighborhood(data):
 The resulting visualization provides valuable insights into the neighborhoods with the highest occurrence of car break-ins, enabling better understanding and informed decision-making.
 
 This project allowed me to leverage data analysis techniques to address a real-world issue and can serve as a valuable addition to my project portfolio.
+
+
+# Project Title: Measuring the Economic Empowerment of Women
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/cmeddata/MeasuringEconomicEmpowermentOfWomen/blob/main/MockDataJam2.ipynb)
+
+![image](https://github.com/cmeddata/cmeddata.github.io/assets/124543750/8a25bfcd-97a7-4668-873f-5f4af012812a)
+
+## Project Description:
+Gender inequality is a persistent global issue with profound economic implications that extend beyond national borders. By analyzing data from a multitude of diverse nations, this research aims to shed light on and deepen our understanding of the relationship between gender inequality and a nation's economic well-being.
+
+This research gives emphasis to the urgency of addressing gender disparities while highlighting the potential that gender equality holds in driving economic advancements. Through our findings, we aim to offer valuable insights that policymakers can consider as they strive to reduce gender disparities and, in the process, enhance women's economic participation.
+
 
 
 
