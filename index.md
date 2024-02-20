@@ -1,10 +1,10 @@
 ## About Me
 
-Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm a junior at San Francisco State University majoring in Computer Science. I'm also a mentor for DataJam at Pittsburgh DataWorks. My passion for data is unwavering, and I'm actively seeking opportunities to break into the field of Data Science and Analytics. Feel free to reach out to me via email or mobile for any opportunities or collaborations.
+Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm a junior at San Francisco State University majoring in Computer Science. I'm also a mentor for DataJam at Pittsburgh DataWorks wherein I mentor both high school and community college students. Also, I' mthe Co-Founder and Vice President of the Data Science Society at San Francisco State University which is a organization we made in order to share our passions in Data. My passion for data is unwavering, and I'm actively seeking opportunities to break into the field of Data Science and Analytics. Feel free to reach out to me via email or mobile for any opportunities or collaborations.
 
 ## Skills
-- **Programming**: Python (NumPy, Pandas), R, SQL
-- **Visualization**: Tableau, Python (Matplotlib, Seaborn), R
+- **Programming**: Python (NumPy, Pandas, SKLearn, StatsModels), R, SQL
+- **Visualization**: Tableau, Python (Matplotlib, Seaborn), R , PowerBI
 
 ## Projects
 
