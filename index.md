@@ -1,6 +1,14 @@
 ## About Me
 
-Welcome to my GitHub portfolio dedicated to data analysis and data science! I'm a junior at San Francisco State University majoring in Computer Science. I'm also a mentor for DataJam at Pittsburgh DataWorks wherein I mentor both high school and community college students. Also, I' mthe Co-Founder and Vice President of the Data Science Society at San Francisco State University which is a organization we made in order to share our passions in Data. My passion for data is unwavering, and I'm actively seeking opportunities to break into the field of Data Science and Analytics. Feel free to reach out to me via email or mobile for any opportunities or collaborations.
+Hello There! I'm a junior at San Francisco State University majoring in Computer Science. My passion for data is unwavering, and I'm actively seeking opportunities to break into the field of Data Science and Analytics. 
+
+My experiences Include:
+
+-  Being a mentor for DataJam at Pittsburgh DataWorks wherein I mentor both high school and community college students about the intricacies of Data Science and guide them through their own personal Data Analysis Project.
+  
+-  Data Analyst Intern/Volunteer at GLIDE which is a non-profit based in San Francisco wherein I derive findings and provide insights with simple descriptive statistics, regression analysis and k-mean clustering using the data provided.
+
+-  Also, I'm the Co-Founder and Vice President of the Data Science Society at San Francisco State University which is a organization we made in order to share our passions in Data to like-minded individuals and individuals looking to explore the scene.
 
 ## Skills
 - **Programming**: Python (NumPy, Pandas, SKLearn, StatsModels), R, SQL
